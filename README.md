@@ -12,7 +12,7 @@ Dog breed: https://www.kaggle.com/datasets/khushikhushikhushi/dog-breed-image-da
 
 How to run YOLOv8 model
 
-Note: The YOLOv8 model runs on Google Colab environment, please upload it onto Google Colab. For the purpose of simplify the importing models step. We have save our original best.pt models into the 'results' subfolders in 'breed' and 'emotion' folders
+Note: The YOLOv8 model runs on Google Colab environment, please upload it onto Google Colab. For the purpose of simplify the importing models after training, we have save our original best.pt models into the 'results' subfolders in 'breed' and 'emotion' folders
 
 Step 1: Extract 'CMPE258_Project.zip' on your local computer.
 
