@@ -11,6 +11,7 @@ Dog emotion: https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction/d
 Dog breed: https://www.kaggle.com/datasets/khushikhushikhushi/dog-breed-image-dataset
 
 How to run YOLOv8 model
+
 Note: The YOLOv8 model runs on Google Colab environment, please upload it onto Google Colab. For the purpose of simplify the importing models step. We have save our original best.pt models into the 'results' subfolders in 'breed' and 'emotion' folders
 
 Step 1: Extract CMPE258_Project.rar on your local computer.
